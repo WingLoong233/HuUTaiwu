@@ -1,0 +1,48 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Visual Studio 2019
+.vs2019/
+
+# Visual Studio 2022
+.vs2022/
+
+# Other files
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pdb
+*.cache
+*.ilk
+*.log
+*.tlog
+*.tmp
+*.temp
+*.vsix
+*.vscode
+*.sln.ide
